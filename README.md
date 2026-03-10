@@ -2,87 +2,92 @@
 
 I'm an Information Technology & Applied Systems (ITAS) student specializing in **Systems Administration & Networking (SAND)** at Vancouver Island University.
 
-This repository showcases hands-on projects involving **virtualization, networking, cybersecurity, and cloud infrastructure** developed through academic labs and independent experimentation.
-
-## Featured Projects
+This repository showcases hands-on projects involving **virtualization, networking, cybersecurity, infrastructure design, and cloud technologies** developed through academic work and independent experimentation.
 
 ---
 
-### Rogue Access Point Demonstration
-Cybersecurity side project demonstrating risks associated with insecure public Wi-Fi networks, including Man-in-the-Middle attacks and network traffic analysis.
+# Featured Projects
 
-🔗 View Project  
-https://github.com/PhilKnapton/Portfolio/tree/main/rogue-access-point-demo
-
----
-
-### Project Quantum – Always-On VPN Infrastructure
+## Project Quantum – Always-On VPN Infrastructure
 Proof-of-concept Always-On VPN environment using Windows Server infrastructure, Network Policy Server (NPS), and certificate-based authentication.
 
 🔗 View Project  
-https://github.com/PhilKnapton/Portfolio/tree/main/project-quantum
+project-quantum.md
 
 ---
 
-### VMware Datacenter Lab
-Multi-host VMware ESXi virtualization environment demonstrating enterprise infrastructure concepts including shared storage, VM management, and network configuration.
+## Project Pegasus – Disaster Recovery with VMware SRM
+Enterprise disaster recovery design using **VMware Site Recovery Manager and vSphere Replication** to protect workloads between two sites with a defined recovery objective.
 
 🔗 View Project  
-https://github.com/PhilKnapton/Portfolio/tree/main/vmware-datacenter-lab
+project-pegasus.md
 
 ---
 
-### AWS VM Migration
-Migration of a VMware virtual machine to Amazon Web Services using S3 and the VM Import process.
+## Project Orion – VMware Datacenter Design
+Multi-host VMware ESXi environment demonstrating **shared storage, HA, vMotion, FT, and distributed networking** within a clustered virtualization infrastructure.
 
 🔗 View Project  
-https://github.com/PhilKnapton/Portfolio/tree/main/aws-vm-migration
+project-orion.md
 
 ---
 
-## Technologies Used
+## Project Scapegoat – Windows Server Infrastructure & Backup
+Windows Server environment designed to demonstrate **domain services, VM backup strategies, and recovery planning** within a virtual lab infrastructure.
 
-### Virtualization
-VMware ESXi  
-VMware vSphere  
-VMware Workstation  
-VM Templates and Automation
-
-### Systems Administration
-Windows Server  
-Active Directory  
-DNS  
-DHCP  
-PowerShell
-
-### Networking
-TCP/IP  
-VLANs  
-VPN Technologies (IKEv2, Always-On VPN)  
-BIND DNS Configuration
-
-### Cybersecurity
-Wireshark  
-Kali Linux  
-ARP Poisoning Demonstrations  
-Man-in-the-Middle Demonstrations  
-SQL Injection Labs
-
-### Cloud
-Amazon Web Services (AWS)  
-EC2 Deployment  
-S3 Storage  
-VM Migration to Cloud
+🔗 View Project  
+project-scapegoat.md
 
 ---
 
-## About Me
+## Rogue Access Point Demonstration
+Cybersecurity side project demonstrating risks associated with insecure public Wi-Fi networks including **Man-in-the-Middle attacks, traffic interception, and rogue network infrastructure**.
 
-ITAS Systems Administration & Networking student with a strong interest in **virtualization, infrastructure design, cybersecurity, and cloud technologies**.
+🔗 View Project  
+rogue-ap-demo.md
 
 ---
 
-## Connect
+## Golden Ticket Attack Demonstration
+Security research project exploring **Kerberos ticket forgery within Active Directory** and the security implications of compromised domain controller credentials.
+
+🔗 View Project  
+golden-ticket-demo.md
+
+---
+
+## Pulmonary Fibrosis Support Website
+A multi-user resource website built using the **Wix platform**, designed to support individuals affected by pulmonary fibrosis through community discussion, events, and informational resources.
+
+🔗 View Project  
+pulmonary-fibrosis-website.md
+
+---
+
+## Literacy Center Computer Refurbishment Program
+Volunteer work with **Literacy Central Vancouver Island**, assisting with refurbishing donated computers and preparing systems for distribution to individuals and families in the community.
+
+🔗 View Project  
+community-computer-refurbishment.md
+
+---
+
+# Technology Stack Overview
+
+This repository also includes a complete overview of the tools, platforms, and technologies used across these projects.
+
+🔗 View Technology Stack  
+technology-stack-overview.md
+
+---
+
+# About Me
+
+ITAS Systems Administration & Networking student with a strong interest in **enterprise infrastructure, virtualization, cybersecurity, and cloud technologies**.
+
+---
+
+# Connect
 
 GitHub  
 https://github.com/PhilKnapton
